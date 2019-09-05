@@ -1,0 +1,18 @@
+# Default ignored files
+/workspace.xml
+
+# IDEA
+*.idea
+
+# Build output
+PictureMasterServer_war/
+
+# Tomcat
+# apache-tomcat-9.0.24/*
+
+
+# lib
+# lib/
+
+# web
+# web/
